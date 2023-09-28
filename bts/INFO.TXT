@@ -1,0 +1,2 @@
+STORING INFO IN MEMORY VS FILE VS DATABASE
+JWT vs username and password
